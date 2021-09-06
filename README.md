@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandyLOC
+- 👋 Hi, I’m Sandra Lopez
 - 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning JS, React, Ruby and Python.
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
