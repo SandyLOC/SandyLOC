@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandra Lopez
-- 👀 Interested in becoming a full stack developer.
+- 👀 In the path of becoming a full stack developer.
 - 🌱 Currently learning JS, React, Ruby and Python.
 - 💞️ Looking to collaborate on interesting and meaningful projects.
 
